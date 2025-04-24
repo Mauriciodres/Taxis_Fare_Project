@@ -1,0 +1,13 @@
+googlemaps
+redis
+pandas
+shapely
+requests-cache
+retry-requests
+openmeteo-requests
+sodapy
+xgboost
+pytz
+
+
+
